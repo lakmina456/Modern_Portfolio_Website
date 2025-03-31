@@ -1,6 +1,6 @@
 # ✨ Modern Portfolio Website
 
-![Portfolio Preview](public/screenshot.png)
+
 
 <div align="center">
 
@@ -11,6 +11,8 @@
 [![License](https://img.shields.io/badge/license-Apache%202.0-red?style=for-the-badge)](LICENSE)
 
 </div>
+
+![Portfolio Preview](public/screenshot.png)
 
 > **⚠️ IMPORTANT NOTICE: Code downloading/usage is prohibited. If you want to use this code, please contact the author directly at isurulakmina456@gmail.com**
 
