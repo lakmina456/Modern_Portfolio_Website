@@ -53,10 +53,6 @@ The live version of this portfolio is available at: [https://isurulakmina.vercel
 - npm or yarn
 
 
-## 📷 Screenshot
-
-The screenshot shown above is from one of the portfolio projects. Be sure to replace it with an actual screenshot of your portfolio's homepage when you fork this repository.
-
 ## 🔧 Customization
 
 To personalize this portfolio for your own use:
